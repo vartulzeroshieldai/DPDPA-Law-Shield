@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ _DPDPA Shield — Digital Personal Data Protection Compliance Platform_
+# 🛡️ _DPDPALawShield — Digital Personal Data Protection Compliance Platform_
 
 ### *Enterprise-Grade DPDPA Compliance Automation, powered by Cryptographic Proof & Generative AI*
 
