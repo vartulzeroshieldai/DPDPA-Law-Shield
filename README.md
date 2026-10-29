@@ -6,7 +6,7 @@
 
 <br />
 
-   <img width="200" height="200" alt="DPDPA Shield Logo" src="Static Assets/dpdpa_shield_logo.png" />
+   <img width="200" height="200" alt="DPDPALawShield Logo" src="Static Assets/dpdpa_shield_logo.png" />
    <br />
    <em>DPDPA Shield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
 
